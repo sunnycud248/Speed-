@@ -12,7 +12,7 @@ from pyvirtualdisplay import Display
 
 # --- ⚙️ CONFIGURATION ---
 sys.stdout.reconfigure(encoding='utf-8')
-SIGNATURE = "༺ℋ𝑛𝑡𝑟 अब्बू ☽༻"
+SIGNATURE = "༺ᘜʜᴏsᴛ अब्बू ☽༻"
 BASE_TEXT = "Tʀʙ Rɴᴅʏᴄᴇ Ƭяу мσм кє ѕαтн вєᴅ ᴍᴀỉɴ  ᴍᴀsᴛỉ кᴀяυggᴀ"
 EMOJIS = ["🔥", "🌟", "✨", "💫", "🚀", "💎", "🌙", "🧿", "🍃", "🦋"]
 
